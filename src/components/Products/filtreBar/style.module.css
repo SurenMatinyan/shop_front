@@ -1,0 +1,9 @@
+.container{
+    margin-left: 20;
+    margin-top: 20
+}
+.price_bolck {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
